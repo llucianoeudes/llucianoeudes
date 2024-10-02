@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 
 💻 Estudante de Ciências da Computação, na PUC Minas.
 
 
