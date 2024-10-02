@@ -1,7 +1,4 @@
 # 
-💻 Estudante de Ciências da Computação, na PUC Minas.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/llucianoeudes?igsh=MTBnYzc0a210bmxobg%3D%3D&utm_source=qr) 
 # 💻 Tech Stack:
