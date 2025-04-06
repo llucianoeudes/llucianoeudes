@@ -21,4 +21,5 @@
  <br></div>
 
  
+![Snake Game](https://github.com/llucianoeudes/llucianoeudes/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only&color=FFA500)
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
