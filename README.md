@@ -10,10 +10,6 @@
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=llucianoeudes&bg_color=000000&color=FFA500&line=FFA500&point=0a855c&area=true&hide_border=true)](https://github.com/llucianoeudes/github-readme-activity-graph)
 
 
- <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=llucianoeudes&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
- </p>
- 
 
  
 ![Snake Game](https://github.com/llucianoeudes/llucianoeudes/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only&color=FFA500)
